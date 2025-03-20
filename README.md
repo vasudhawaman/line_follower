@@ -1,16 +1,6 @@
 # Autonomous Object Detection, Avoidance, and Line-Following Robot  
 
 This project showcases an **autonomous Object Detection, Avoidance, and Line-Following Robot** powered by the **ESP32** microcontroller, demonstrating **intelligent navigation** and **real-time decision-making**. The robot is equipped with **ultrasonic and infrared (IR) sensors**, enabling **precise obstacle detection, avoidance, and path-following** capabilities.  
-
-## 📌 Model Image  
-![Model Image](path/to/model_image.png)  
-
-## 🏗 Architecture  
-![Architecture](path/to/architecture_diagram.png)  
-
-## 🎥 Demo Video  
-[![Demo Video](path/to/demo_thumbnail.png)](https://your-video-link.com)  
-
 ## 🔹 Features  
 
 - **Ultrasonic Sensors** 🔗  
